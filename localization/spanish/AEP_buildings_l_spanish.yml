@@ -1,0 +1,5 @@
+﻿l_spanish:
+ building_type_great_wall_of_china_01:0 "Gran Muralla China"
+ building_type_great_wall_of_china_01_desc:0 "La Gran Muralla China ganó prominencia por primera vez durante el reinado del primer emperador de China, Qin Shi Huang Di, quien inició un ambicioso proyecto para conectar y ampliar los tramos de muralla existentes para crear una formidable barrera defensiva contra las tribus nómadas del norte. \n\nDinastías sucesivas continuarían el trabajo de expansión del muro, con la notable excepción de la dinastía Tang, que vio el muro como un obstáculo económico y optó por priorizar la importancia de una fuerte estrategia ofensiva en lugar de la defensa."
+ building_great_wall_of_china_01:0 "$building_type_great_wall_of_china_01$"
+ building_great_wall_of_china_01_desc:0 "$building_type_great_wall_of_china_01_desc$"

@@ -1,0 +1,164 @@
+﻿####################
+### House of Lưu ###
+####################
+
+luu_ke_tong = {
+	name = "Luu_Ke_Tong" # Lưu Kế Tông
+	dynasty = viet_d012 # Lưu
+	culture = kinh
+	religion = "mahayana"
+
+	933.1.1 = { # date unknown
+		birth = yes
+	}
+	989.1.1 = {
+		death = yes
+	}
+}
+
+###################
+### House of Lý ###
+###################
+
+ly_thaito = {
+	name = "Cong_Uan"
+	dynasty = viet_d010 # Lý # Lý
+    culture = kinh
+    religion = mahayana
+	trait = zealous
+	trait = scholar
+    974.3.8 = {
+        birth = yes
+    }
+    1028.3.31 = {
+        death = yes
+		name = "Thai_To"
+    }
+}
+ly_thaitong = {
+	name = "Phat_Ma"
+	dynasty = viet_d010 # Lý
+    culture = kinh
+    religion = mahayana
+	father = ly_thaito
+    1000.7.29 = {
+        birth = yes
+    }
+    1054.11.3 = {
+        death = yes
+		name = "Thai_Tong"
+    }
+}
+ly_thanhtong = {
+	name = "Nhat_Ton"
+	dynasty = viet_d010 # Lý
+    culture = kinh
+    religion = mahayana
+	father = ly_thaitong
+    1023.3.30 = {
+        birth = yes
+    }
+    1072.2.1 = {
+        death = yes
+		name = "Thanh_Tong"
+    }
+	dna = thanh_tong_dna_entry
+}
+ly_nhantong = {
+	name = "Can_Duc"
+	dynasty = viet_d010 # Lý
+    culture = kinh
+    religion = mahayana
+	father = ly_thanhtong
+    1066.2.22 = {
+        birth = yes
+    }
+    1128.1.15 = {
+        death = yes
+		name = "Nhan_Tong"
+    }
+}
+ly_hienhau = {
+	name = "Hien_Hau"
+	dynasty = viet_d010 # Lý
+    culture = kinh
+    religion = mahayana
+	father = ly_thanhtong
+    1070.1.1 = { #date unknown
+        birth = yes
+    }
+    1120.1.1 = { #date unknown
+        death = yes
+    }
+}
+ly_thantong = {
+	name = "Duong_Hoan"
+	dynasty = viet_d010 # Lý
+    culture = kinh
+    religion = mahayana
+	father = ly_hienhau
+    1116.1.1 = {	
+        birth = yes
+    }
+    1138.10.31 = {
+        death = yes
+		name = "Than_Tong"
+    }
+}
+ly_anhtong = {
+	name = "Thien_To"
+	dynasty = viet_d010 # Lý
+    culture = kinh
+    religion = mahayana
+	father = ly_thantong
+    1136.4.1 = {
+        birth = yes
+    }
+    1175.8.14 = {
+        death = yes
+		name = "Anh_Tong"
+    }
+}
+ly_caotong = {
+	name = "Long_Trat"
+	dynasty = viet_d010 # Lý
+    culture = kinh
+    religion = mahayana
+	father = ly_anhtong
+    1173.7.6 = {
+        birth = yes
+    }
+    1210.11.15 = {
+        death = yes
+		name = "Cao_Tong"
+    }
+}
+ly_huetong = {
+	name = "Hao_Sam"
+	dynasty = viet_d010 # Lý
+    culture = kinh
+    religion = mahayana
+	father = ly_caotong
+    1194.7.1 = {
+        birth = yes
+    }
+    1226.9.3 = {
+        death = yes
+		name = "Hue_Tong"
+    }
+}
+ly_chieuhoang = {
+	name = "Phat_Kim"
+	female = yes
+	dynasty = viet_d010 # Lý
+    culture = kinh
+    religion = mahayana
+	father = ly_huetong
+    1218.9.1 = {
+        birth = yes
+    }
+    1278.1.1 = {
+        death = yes
+		name = "Chieu_Hoang"
+    }
+}

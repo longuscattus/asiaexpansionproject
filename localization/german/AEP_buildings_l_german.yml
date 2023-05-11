@@ -1,0 +1,5 @@
+﻿l_german:
+ building_type_great_wall_of_china_01:0 "Chinesische Mauer"
+ building_type_great_wall_of_china_01_desc:0 "Die Chinesische Mauer gewann zum ersten Mal an Bedeutung während der Regierungszeit von Chinas erstem Kaiser Qin Shi Huang Di, der ein ehrgeiziges Projekt initiierte, um bestehende Mauerabschnitte zu verbinden und zu erweitern, um eine beeindruckende Verteidigungsbarriere gegen die Nomadenstämme im Norden zu schaffen. \n\nDie Arbeiten zum Ausbau der Mauer würden von aufeinanderfolgenden Dynastien fortgesetzt, mit der bemerkenswerten Ausnahme der Tang-Dynastie, die die Mauer stattdessen als wirtschaftliches Hindernis betrachtete und sich entschied, der Bedeutung einer starken Offensivstrategie gegenüber der Verteidigung Vorrang einzuräumen."
+ building_great_wall_of_china_01:0 "$building_type_great_wall_of_china_01$"
+ building_great_wall_of_china_01_desc:0 "$building_type_great_wall_of_china_01_desc$"

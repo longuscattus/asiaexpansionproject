@@ -1,0 +1,4 @@
+﻿46600007 = {
+	name = "dynn_Yaonian"
+	culture = "khitan"
+}

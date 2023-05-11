@@ -1,0 +1,9 @@
+﻿l_english:
+
+# Forming Dai Viet, by Longus Cattus
+ east_asia_decisions.0001.t:0 "The Swiss Confederacy"
+ east_asia_decisions.0001.desc:0 "For a long time, the cities around the central Alps have been threatened by other actors inside the Empire. United under a single banner, they have now forged mutually beneficial alliances and have received the honor of imperial immediacy. \n\nIn honor of my dynasty's contributions to the Swiss city-states, I have been chosen as the head of this union, the one who will be the figurehead of all the Cantons of our new Swiss Confederation. No longer will we be threatened by outsiders, but instead rise as a strong independent actor in the Empire."
+ east_asia_decisions.0001.a:0 "We stand together!"
+ east_asia_decisions.0002.desc.emperor:0 "After years of strife and uneasy diplomatic deals, I was forced to grant the Swiss Cantons imperial immediacy.\n\nThis collection of alpine towns has united in a large Confederation to protect themselves from the predations of the Burgundians and the German lords. I must be careful to keep them in check, lest their accomplishment sow dissent amongst the neighboring burghers."
+ east_asia_decisions.0002.desc.vassals:0 "A new entity known as the Swiss Confederation has risen in the Empire. They are a conglomeration of cities with imperial immediacy settled around the central Alps, and they have entered a defensive alliance to protect themselves from the other electors around them.\n\nAn independent force to be reckoned with, they have broken free from any prior claims to their lands, be it from the old Burgundians to the west or the German lords to the north.\n\nI should look out for this new potential threat in the Empire."
+ east_asia_decisions.0002.a:0 "How peculiar..."

@@ -1,0 +1,77 @@
+﻿l_spanish:
+ shinto_religion:0 "Shintō" # 神道
+ shinto_religion_adj:0 "Shintōismo" # 神道
+ shinto_religion_adherent:0 "Shintōista" # 神道の弟子
+ shinto_religion_adherent_plural:0 "Shintōistas" # 神道の弟子達
+ shinto_religion_desc:0 "El sintoísmo es la religión indígena de Japón y se centra en la creencia de que las fuerzas espirituales se manifiestan en lugares naturales como montañas, ríos y otros aspectos de la naturaleza, incluidos los humanos y los animales."
+ 
+ shinto:0 "Shintōismo" # 神道
+ shinto_adj:0 "Shintō" # 神道
+ shinto_adherent:0 "Shintōista" # 神道の弟子
+ shinto_adherent_plural:0 "Shintōistas" # 神道の弟子達
+ shinto_desc:0 "El sintoísmo es la religión indígena de Japón y se centra en la creencia de que las fuerzas espirituales se manifiestan en lugares naturales como montañas, ríos y otros aspectos de la naturaleza, incluidos los humanos y los animales."
+ 
+ shinto_high_god_name:0 "Kamisama" # 神様
+ shinto_high_god_name_possessive:0 "Kamisamas" # 神様の
+ shinto_high_god_alternate:0 "Tendō" # 天道
+ shinto_high_god_alternate_possessive:0 "Tendōs" # 天道の
+ shinto_creator_god_name:0 "Izanagi" # イザナギ
+ shinto_creator_god_name_possessive:0 "Izanagis" # イザナギの
+ shinto_health_god_name:0 "Yakushi Nyorai" # 薬師如来
+ shinto_health_god_name_possessive:0 "Yakushi Nyorais" # 薬師如来の
+ shinto_fertility_god_name:0 "Inari" # 稲荷
+ shinto_fertility_god_name_possessive:0 "Inaris" # 稲荷の
+ shinto_wealth_god_name:0 "Daikokuten" # 大黒天
+ shinto_wealth_god_name_possessive:0 "Daikokutens" # 大黒天の
+ shinto_household_god_name:0 "Kōjin" # 荒神
+ shinto_household_god_name_possessive:0 "Kōjins" # 荒神の
+ shinto_fate_god_alternate:0 "Sarutahiko" # 猿田彦
+ shinto_fate_god_alternate_possessive:0 "Sarutahikos" # 猿田彦の
+ shinto_knowledge_god_name:0 "Omoikane" # 思金
+ shinto_knowledge_god_name_possessive:0 "Omoikanes" # 思金の
+ shinto_war_god_name:0 "Bishamonten" # 毘沙門天
+ shinto_war_god_name_possessive:0 "Bishamontens" # 毘沙門天の
+ shinto_trickster_god_name:0 "Kitsune" # 狐
+ shinto_trickster_god_name_possessive:0 "Kitsunes" # 狐の
+ shinto_night_god_name:0 "Tsukuyomi" # 月読
+ shinto_night_god_name_possessive:0 "Tsukuyomis" # 月読の
+ shinto_water_god_name:0 "Suijin" # 水神
+ shinto_water_god_name_possessive:0 "Suijins" # 水神の
+ shinto_devil_name:0 "Oni" # 鬼
+ shinto_devil_name_possessive:0 "Onis" # 鬼の
+ shinto_death_god_name:0 "Shinigami" # 死神
+ shinto_death_god_name_possessive:0 "Shinigamis" # 死神の
+ shinto_witch_god_name:0 "$shinto_trickster_god_name$"
+ shinto_witch_god_name_possessive:0 "$shinto_trickster_god_name_possessive$"
+ shinto_devotee_male:0 "Sō" #　僧
+ shinto_devotee_male_plural:0 "Sō" #　僧達
+ shinto_devotee_female:0 "Nisō" #　尼僧
+ shinto_devotee_female_plural:0 "Nisō" #　尼僧達
+ shinto_priest_neuter:0 "Shasō" # 社僧
+ shinto_priest_neuter_plural:0 "Shasō" # 社僧達
+ shinto_house_of_worship:0 "jingū-ji" #　神宮寺
+ shinto_house_of_worship_plural:0 "jingū-ji" #　神宮寺達
+ shinto_religious_symbol:0 "Torii" #　鳥居
+ shinto_religious_text:0 "Kyōmon" #　経文
+ shinto_religious_head_title:0 "Tennō" # 天皇
+ shinto_religious_head_title_name:0 "Yamato" #　ヤマト/皇室
+ shinto_divine_realm:0 "Takamagahara" # 高天原
+ shinto_afterlife:0 "Tengoku" # 天国
+ shinto_negative_afterlife:0 "Jigoku" # 地獄
+ 
+ #Purely Shintō
+ #shinto_devotee_male:0 "Fugeki" # 巫覡
+ #shinto_devotee_male_plural:0 "Fugeki" # 巫覡達
+ #shinto_devotee_female:0 "Miko" # 巫女
+ #shinto_devotee_female_plural:0 "Miko" # 巫女達
+ #shinto_priest_neuter:0 "Kamunushi" # 神主
+ #shinto_priest_neuter_plural:0 "Kamunushi" # 神主達
+ #shinto_house_of_worship:0 "jinja" #　神社
+ #shinto_house_of_worship_plural:0 "jinja" #　神社達
+ #shinto_religious_text:0 "Shinten" #　神典
+ 
+ special_doctrine_teachings_of_buddha_name:0 "Shinbutsu-shūgō" # 神仏習合
+ special_doctrine_teachings_of_buddha_desc:0 "Shinbutsu-shūgō, o el sincretismo de kami y Budas, es la religión más dominante de Japón y representa el sincretismo entre la religión nativa de Japón, el sintoísmo y el budismo importado del reino coreano de Baekje en el siglo VI. Antes de la Restauración Meiji, las dos religiones estaban en gran parte entrelazadas, poseían muchas creencias superpuestas, y los adherentes participaban tanto en los rituales sintoístas como budistas sin contradicción."
+ doctrine_parameter_eastern_syncretic_recipient_opinion_active:0 "Mutuo [EmptyScope.ScriptValue('syncretic_mutual_opinion_bonus_value')|=+0] [opinion|E] bonos con [faiths|E] that have the $tenet_eastern_syncretism_name$ [core_tenet|E]"
+ doctrine_parameter_opinion_of_eastern_syncretic_actor_opinion_active:0 ""
+ doctrine_parameter_hostility_override_special_doctrine_teachings_of_buddha:0 "Considera que las [faiths|E] budistas son $hostility_astray_tooltippable$ y las [faiths|E] budistas las consideran $hostility_astray_tooltippable$ en lugar de $hostility_evil_tooltippable$."

@@ -1,0 +1,14 @@
+﻿l_german:
+#Japanese
+ councillor_court_chaplain_shinto:0 "Shasō" #社僧
+ councillor_court_chaplain_shinto_possessive:0 "Shasos" #社僧
+ 
+ #Purely Shinto
+ #councillor_court_chaplain_shinto:0 "Gūji" #宮司
+ #councillor_court_chaplain_shinto_possessive:0 "Gūji's" #宮司の
+#Korean
+ councillor_court_chaplain_haneul:0 "Mudang" #무당
+ councillor_court_chaplain_haneul_possessive:0 "Mudangs" #무당의
+#Tai
+ councillor_court_chaplain_ban_phi:0 "Mophi" # หมอผี
+ councillor_court_chaplain_ban_phi_possessive:0 "Mophis" # หมอผี

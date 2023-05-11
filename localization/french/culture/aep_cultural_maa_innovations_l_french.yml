@@ -1,0 +1,51 @@
+﻿l_french:
+ # Tribal Era
+ culture_parameter_unlock_maa_samurai:0 "Peut recruter des [GetMaA('samurai').GetName] comme [men_at_arms|E]"
+ culture_parameter_unlock_maa_emishi:0 "Peut recruter des [GetMaA('emishi_riders').GetName] comme [men_at_arms|E]"
+ culture_parameter_unlock_maa_han:0 "Peut recruter des [GetMaA('chinese_pikemen').GetName] comme [men_at_arms|E]"
+ culture_parameter_unlock_maa_khitan:0 "Peut recruter des [GetMaA('heavy_khitan_cavalry').GetName] comme [men_at_arms|E]"
+ culture_parameter_unlock_maa_hwarang:0 "Peut recruter des [GetMaA('hwarang').GetName] comme [men_at_arms|E]"
+ culture_parameter_unlock_maa_gaemamusa:0 "Peut recruter des [GetMaA('gaemamusa').GetName] comme [men_at_arms|E]"
+ culture_parameter_unlock_maa_luojuzi:0 "Peut recruter des [GetMaA('luojuzi').GetName] comme [men_at_arms|E]"
+ culture_parameter_unlock_maa_ksatra:0 "Peut recruter des [GetMaA('ksatra').GetName] comme [men_at_arms|E]"
+
+ #Military
+ tradition_samurai_spirit_name:0 "Samouraï" #侍
+ tradition_samurai_spirit_desc:0 "Les samouraïs sont la classe de guerriers d'élite du Japon et suivent un code guerrier strict connu plus tard sous le nom de Bushidō, mettant l'accent sur des notions telles que la sincérité, le courage martial et la loyauté envers son suzerain jusqu'à la mort."
+ samurai:0 "Samouraï" #騎士
+ samurai_flavor:0 "Faisant preuve d'une discipline exceptionnelle et d'un entraînement rigoureux dans les arts de l'équitation et du tir à l'arc, ces guerriers incarnent la quintessence de l'idéal guerrier japonais."
+ 
+ tradition_emishi_riders_name:0 "Cavaliers Emishi"
+ tradition_emishi_riders_desc:0 "Les Emishi sont reconnus comme de superbes cavaliers dont la férocité les a menés à la victoire dans de nombreuses batailles malgré leur infériorité numérique."
+ emishi_riders:0 "Cavaliers Emishi"
+ emishi_riders_flavor:0 "Les Emishi sont reconnus comme de superbes cavaliers dont la férocité les a menés à la victoire dans de nombreuses batailles malgré leur infériorité numérique."
+ 
+ tradition_chinese_pikemen_name:0 "Piquiers chinois"
+ tradition_chinese_pikemen_desc:0 "These armor-clad pikemen equipped with the Qiang Spear constitute the backbone of any Chinese Army."
+ chinese_pikemen:0 "Piquiers chinois"
+ chinese_pikemen_flavor:0 "Ces piquiers en armure équipés de la lance Qiang constituent l'épine dorsale de toute armée chinoise."
+ 
+ tradition_khitan_heavy_cavalry_name:0 "Cavalerie lourde khitane"
+ tradition_khitan_heavy_cavalry_desc:0 "Les Khitan sont réputés pour leur cavalerie lourde, dont les prouesses au combat les ont vus sortir victorieux de nombreux combats avec leurs voisins."
+ heavy_khitan_cavalry:0 "Cavalerie lourde khitane"
+ heavy_khitan_cavalry_flavor:0 "Les Khitan sont réputés pour leur cavalerie lourde, dont les prouesses au combat les ont vus sortir victorieux de nombreux combats avec leurs voisins."
+ 
+ tradition_hwarang_name:0 "Chevaliers Fleuris" #화랑/花郞
+ tradition_hwarang_desc:0 "LLes Hwarang (lit. Chevaliers Fleuris) étaient une classe de guerriers d'élite de jeunes hommes de Silla, réputés pour leur beauté physique exceptionnelle et leur formation approfondie dans divers domaines, allant de l'administration à l'armée. Ils ont servi de parangons de vertu au sein de la société Sillan, illustrant les valeurs de loyauté, de bravoure et de droiture, et ont démontré une dévotion fanatique à leur souverain."
+ hwarang:0 "Hwarang" #화랑/花郞
+ hwarang_flavor:0 "Réputés pour leur beauté exceptionnelle, leur expertise militaire et leur dévouement inébranlable au roi, ces guerriers inexorables se battront jusqu'au dernier homme."
+ 
+ 
+ gaemamusa:0 "Gaemamusa" #개마무사/鎧馬武士
+ gaemamusa_flavor:0 "Bien entraîné et réputé pour sa férocité, Gaemamusa peut vaincre presque n'importe quel ennemi."
+ 
+ tradition_tiger_sons_name:0 "Tiger Sons"
+ tradition_tiger_sons_desc:0 "Les Tiger Sons, ou Luojuzi, formaient le noyau d'élite de l'armée de Nanzhao et n'étaient choisis que parmi les guerriers les plus forts. La lâcheté n'était pas tolérée chez les Luojuzi, la retraite étant passible de la peine de mort."
+ luojuzi:0 "Luojuzi"
+ luojuzi_flavor:0 "Les Tiger Sons, ou Luojuzi, formaient le noyau d'élite de l'armée de Nanzhao et n'étaient choisis que parmi les guerriers les plus forts. La lâcheté n'était pas tolérée chez les Luojuzi, la retraite étant passible de la peine de mort."
+ 
+ tradition_warrior_caste_name:0 "Ksatra"
+ tradition_warrior_caste_desc:0 "Les Ksatra constituaient l'aristocratie guerrière de l'empire khmer et étaient bien connus pour leurs prouesses au combat."
+ ksatra:0 "Ksatra"
+ ksatra_flavor:0 "Les Ksatra constituaient l'aristocratie guerrière de l'empire khmer et étaient bien connus pour leurs prouesses au combat."
+ 

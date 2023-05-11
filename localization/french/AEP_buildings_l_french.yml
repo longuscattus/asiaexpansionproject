@@ -1,0 +1,5 @@
+﻿l_french:
+ building_type_great_wall_of_china_01:0 "Grande Muraille"
+ building_type_great_wall_of_china_01_desc:0 "La Grande Muraille de Chine a pris de l'importance pour la première fois sous le règne du premier empereur de Chine, Qin Shi Huang Di, qui a lancé un projet ambitieux visant à relier et à étendre les pans de mur existants pour créer une formidable barrière défensive contre les tribus nomades du nord. \n\nLes travaux d'expansion du mur seraient poursuivis par les dynasties successives, à l'exception notable de la dynastie Tang, qui considérait plutôt le mur comme un obstacle économique et a choisi de donner la priorité à l'importance d'une stratégie offensive forte par opposition à la défense."
+ building_great_wall_of_china_01:0 "$building_type_great_wall_of_china_01$"
+ building_great_wall_of_china_01_desc:0 "$building_type_great_wall_of_china_01_desc$"

@@ -1,0 +1,5 @@
+﻿l_english:
+ building_type_great_wall_of_china_01:0 "Great Wall of China"
+ building_type_great_wall_of_china_01_desc:0 "The Great Wall of China first gained prominence during the reign of China's first Emperor, Qin Shi Huang Di, who initiated an ambitious project to connect and expand existing stretches of wall to create a formidable defensive barrier against the nomadic tribes to the north. \n\nWork on expanding the wall would be continued by successive dynasties, with the notable exception of the Tang Dynasty, which viewed the wall instead as an economic hinderence and chose to prioritize the importance of a strong offensive strategy as opposed to defense."
+ building_great_wall_of_china_01:0 "$building_type_great_wall_of_china_01$"
+ building_great_wall_of_china_01_desc:0 "$building_type_great_wall_of_china_01_desc$"

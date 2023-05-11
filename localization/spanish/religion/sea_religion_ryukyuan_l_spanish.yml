@@ -1,0 +1,83 @@
+﻿l_spanish:
+ ryukyu_religion:0 "Ryukyuano"
+ ryukyu_religion_adj:0 "Ryukyuano"
+ ryukyu_religion_adherent:0 "Ryukyuano"
+ ryukyu_religion_adherent_plural:0 "Ryukyuanos"
+ ryukyu_religion_desc:0 "Comúnmente definidas por una reverencia por la naturaleza, el culto a los antepasados ​​y la creencia en los espíritus, muchas creencias indígenas se consideran diversas formas de paganismo."
+
+ ryukyu_animism:0 "Utakiismo"
+ ryukyu_animism_adj:0 "Utakiista"
+ ryukyu_animism_adherent:0 "Utakiista"
+ ryukyu_animism_adherent_plural:0 "Utakiistas"
+ ryukyu_animism_desc:0 "Las creencias indígenas de las Islas Ryukyu enfatizan la adoración de los ancestros y los espíritus de la naturaleza. Los más venerados de estos espíritus son Utin, Jiichi y Ryūgū, que simbolizan respectivamente el Cielo como padre, la Tierra como madre y el Mar como el lugar de nacimiento de toda la vida. Son veneradas en un santuario llamado utaki, y se le da especial importancia al poder espiritual de las mujeres."
+
+ ryukyu_animism_high_god_name:0 "Utin"
+ ryukyu_animism_high_god_name_2:0 "$ryukyu_animism_high_god_name$" # Optional translation alt
+ ryukyu_animism_high_god_name_possessive:0 "de Utin"
+ ryukyu_animism_high_god_name_alternate:0 "Jiichi"
+ ryukyu_animism_high_god_name_alternate_possessive:0 "de Jiichi"
+ ryukyu_animism_good_god_father_sky:0 "$ryukyu_animism_trickster_god_name$"
+ ryukyu_animism_good_god_ancestors:0 "futuchi"
+ ryukyu_animism_devil_name:0 "Corrupción"
+ ryukyu_animism_devil_name_possessive:0 de la corruption"
+ ryukyu_animism_devil_shehe:0 "Él"
+ ryukyu_animism_devil_herselfhimself:0 "Él mismo"
+ ryukyu_animism_devil_herhis:0 "Él"
+ ryukyu_animism_evil_god_decay:0 "Flagelo"
+ ryukyu_animism_evil_god_decay_possessive:0 "del flagelo"
+ ryukyu_animism_evil_god_drought:0 "Sequía"
+ ryukyu_animism_death_deity_name:0 "la muerte"
+ ryukyu_animism_death_deity_name_possessive:0 "de la muerte"
+ ryukyu_animism_death_deity_herhis:0 "Él"
+ ryukyu_animism_mother_earth_father_sky:0 "Utin et Jiichi"
+ ryukyu_animism_mother_earth_father_sky_2:0 "$ryukyu_animism_mother_earth_father_sky$" # Optional translation alt
+ ryukyu_animism_mother_earth_father_sky_3:0 "$ryukyu_animism_mother_earth_father_sky$" # Optional translation alt
+
+ ryukyu_animism_creator_god_name:0 "$ryukyu_animism_high_god_name$"
+ ryukyu_animism_creator_god_name_possessive:0 "$ryukyu_animism_high_god_name_possessive$"
+ ryukyu_animism_health_god_name:0 "$ryukyu_animism_high_god_name$"
+ ryukyu_animism_health_god_name_possessive:0 "$ryukyu_animism_high_god_name_possessive$"
+ ryukyu_animism_fertility_god_name:0 "$ryukyu_animism_high_god_name$"
+ ryukyu_animism_fertility_god_name_possessive:0 "$ryukyu_animism_high_god_name_possessive$"
+ ryukyu_animism_wealth_god_name:0 "$ryukyu_animism_high_god_name$"
+ ryukyu_animism_wealth_god_name_possessive:0 "$ryukyu_animism_high_god_name_possessive$"
+ ryukyu_animism_household_god_name:0 "$ryukyu_animism_high_god_name$"
+ ryukyu_animism_household_god_name_possessive:0 "$ryukyu_animism_high_god_name_possessive$"
+ ryukyu_animism_fate_god_name:0 "destino"
+ ryukyu_animism_fate_god_name_possessive:0 "del destino"
+ ryukyu_animism_knowledge_god_name:0 "$ryukyu_animism_high_god_name$"
+ ryukyu_animism_knowledge_god_name_possessive:0 "$ryukyu_animism_high_god_name_possessive$"
+ ryukyu_animism_war_god_name:0 "$ryukyu_animism_high_god_name$"
+ ryukyu_animism_war_god_name_possessive:0 "$ryukyu_animism_high_god_name_possessive$"
+ ryukyu_animism_trickster_god_name:0 "Kijimunaa"
+ ryukyu_animism_trickster_god_name_possessive:0 "de Kijimunaa"
+ ryukyu_animism_night_god_name:0 "$ryukyu_animism_trickster_god_name$"
+ ryukyu_animism_night_god_name_possessive:0 "$ryukyu_animism_trickster_god_name_possessive$"
+ ryukyu_animism_water_god_name:0 "Ryūgū"
+ ryukyu_animism_water_god_name_possessive:0 "de Ryūgū"
+
+ ryukyu_animism_house_of_worship:0 "utaki"
+ ryukyu_animism_house_of_worship_2:0 "$ryukyu_animism_house_of_worship$" # Optional translation alt
+ ryukyu_animism_house_of_worship_3:0 "$ryukyu_animism_house_of_worship$" # Optional translation alt
+ ryukyu_animism_house_of_worship_plural:0 "utakis"
+ ryukyu_animism_religious_symbol:0 "sangwaa"
+ ryukyu_animism_religious_symbol_2:0 "$ryukyu_animism_religious_symbol$" # Optional translation alt
+ ryukyu_animism_religious_symbol_3:0 "$ryukyu_animism_religious_symbol$" # Optional translation alt
+ ryukyu_animism_religious_text:0 "sacred stories"
+ ryukyu_animism_religious_text_2:0 "$ryukyu_animism_religious_text$" # Optional translation alt
+ ryukyu_animism_religious_text_3:0 "$ryukyu_animism_religious_text$" # Optional translation alt
+ ryukyu_animism_religious_head_title:0 "High Priestess"
+ ryukyu_animism_religious_head_title_name:0 "High Council"
+ ryukyu_animism_devotee:0 "el seguidor"
+ ryukyu_animism_devoteeplural:0 "seguidores"
+ ryukyu_animism_priest:0 "nuuru"
+ ryukyu_animism_priest_plural:0 "nuurus"
+ ryukyu_animism_priest_alternate_plural:1 "viejo"
+ ryukyu_animism_divine_realm:0 "Nirai Kanai"
+ ryukyu_animism_divine_realm_2:0 "$ryukyu_animism_divine_realm$" # Optional translation alt
+ ryukyu_animism_divine_realm_3:0 "$ryukyu_animism_divine_realm$" # Optional translation alt
+ ryukyu_animism_afterlife:0 "L'outre-monde"
+ ryukyu_animism_afterlife_2:0 "$ryukyu_animism_afterlife$" # Optional translation alt
+ ryukyu_animism_afterlife_3:0 "$ryukyu_animism_afterlife$" # Optional translation alt
+ witchgodname_ryukyu_animism_the_shadow:0 "La sombra"
+ witchgodname_ryukyu_animism_the_shadow_possessive:0 "de l'Ombre"
